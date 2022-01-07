@@ -1,4 +1,4 @@
-# 0x1B. C - Sorting algorithms & Big O
+# 0x1B. C - Sorting algorithms & Big O By Ojo Timilehin Joseph & Unyime Montag
 
 ## Description
 What you should learn from this project:
